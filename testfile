@@ -1,3 +1,7 @@
 This is test file for checking git access to jenkins
+<<<<<<< HEAD
 
 Change from server master
+=======
+This is test file for checking git access to jenkins2
+>>>>>>> 706726ca25f910d3b06f79e3562b05153d8807fc
